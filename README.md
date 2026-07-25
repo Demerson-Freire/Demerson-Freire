@@ -15,7 +15,7 @@ I have experience developing full-stack systems, working with backend and fronte
 - 🔬 Former Scientific Initiation (PIBIC) researcher in dimensionality reduction
 - 🚀 Currently expanding my expertise in React, Node.js, Java, and Spring Boot
 
-##🚀 What I Do
+## 🚀 What I Do
 • Backend Development
 • Frontend Development
 • Database Design
