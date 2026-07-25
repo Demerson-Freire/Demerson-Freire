@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Demerson Freire 👋
 
-<!--
-**Demerson-Freire/Demerson-Freire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | PHP, JavaScript, React, Node.js & SQL
 
-Here are some ideas to get you started:
+I'm a Software Engineer focused on building web applications and software
+solutions that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have professional experience developing full-stack systems, working with
+backend, frontend, databases, system analysis, and software architecture.
+
+Currently, I work with PHP, JavaScript, SQL, MySQL, and SQL Server, while
+expanding my expertise in React, Node.js, Java, and Spring Boot.
+
+### 🚀 What I Do
+
+- Build web applications and software solutions
+- Develop backend and frontend systems
+- Design and manage relational databases
+- Analyze requirements and design technical solutions
+- Improve existing systems and workflows
+- Build solutions focused on real-world business needs
+
+### 🛠️ Technologies & Tools
+
+...
